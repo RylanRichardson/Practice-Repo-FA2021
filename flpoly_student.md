@@ -12,6 +12,13 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Cloud Infrastructure and Services
 
+| Prefix         | Number       | Name         |Credits      |
+| :------------- | :----------: | :----------: |  ----------:|
+| **MAC**  |  **1147**   |_Precalculus Algebra_    | 4           |
+|  **COP**    |  **2034**   | _Introduction to Programming Using Python_ | 3           |
+|  **COP**    | **2073** | _Introduction to Data Science_	    | 3           |
+| **SLS**   | **1901** | _Foundations for Academic Success_    | 0           |
+
 **Hobbies:**
 
 I am _passionate about_: 
