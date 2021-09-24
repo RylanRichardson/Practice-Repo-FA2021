@@ -11,6 +11,8 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 |  **COP**    | **2073** | _Introduction to Data Science_	    | 3           |
 | **SLS**   | **1901** | _Foundations for Academic Success_    | 0           |
 
+![raw schedule](https://raw.githubusercontent.com/RylanRichardson/Practice-Repo-FA2021/main/screenshotGit.png)
+
 **Hobbies:**
 
 I am _passionate about_: 
@@ -20,6 +22,8 @@ I am _passionate about_:
 - Money
 
 - Software Engineering? 
-***
 
+[Github Repo](https://github.com/RylanRichardson/Practice-Repo-FA2021/)
+
+***
 > Last modified: 2021/09/23
