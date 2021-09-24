@@ -4,14 +4,6 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- PreCalc
-
-- Intro to Python
-
-- Intro to Data Science
-
-- Cloud Infrastructure and Services
-
 | Prefix         | Number       | Name         |Credits      |
 | :------------- | :----------: | :----------: |  ----------:|
 | **MAC**  |  **1147**   |_Precalculus Algebra_    | 4           |
@@ -30,4 +22,4 @@ I am _passionate about_:
 - Software Engineering? 
 ***
 
-> Last modified: 2021/09/07
+> Last modified: 2021/09/23
